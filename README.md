@@ -67,6 +67,7 @@
 - lightgbm
 
 ## Quy trình hoạt động
+### Mô tả quy trình
 ![Mô tả quy trình](system_process.png)
 
 # Liên hệ
