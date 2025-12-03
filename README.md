@@ -64,7 +64,7 @@
 - lightgbm
 
 ## Quy trình hoạt động
-![](system_process.jpg)
+![Mô tả quy trình](system_process.jpg)
 
 # Liên hệ
 Nếu bạn có bất kỳ câu hỏi hoặc góp ý nào thì liên hệ với mình qua Email:[lehoanggiavi21082004@gmail.com], [quynhanhnguyenngoc081@gmail.com], [hoangvu26104@gmail.com]
