@@ -4,6 +4,9 @@
     <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
 </a>
 
+## Short descriptions
+- Dự án tập trung phát triển một mô hình phát hiện gian lận cho nền tảng Fintech, nơi dữ liệu có tính mất cân bằng nghiêm trọng và hành vi gian lận liên tục thay đổi. Nhiều mô hình như Random Forest, XGBoost, KNN, AdaBoost và các mô hình học sâu tự đề xuất như CNN-base, Bi_LSTM base đã được triển khai để so sánh. Kết quả cho thấy mô hình đề xuất đạt AUC và Recall lần lượt là 0.990% và 0.953% cao hơn so với các phương pháp còn lại (dao động từ 90-92), giúp phát hiện tốt hơn các giao dịch gian lận hiếm gặp. Dự án đồng thời giải quyết các thách thức lớn như nhiễu trong dữ liệu, phân bố lớp lệch và nguy cơ cảnh báo sai, hướng đến một hệ thống cảnh báo gian lận chính xác và ổn định hơn cho môi trường tài chính số.
+
 ## Project Organization
 
 ```
